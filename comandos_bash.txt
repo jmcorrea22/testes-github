@@ -5,8 +5,3 @@ pwd: mostra o caminho completo do diretório atual
 mkdir: cria diretórios
 rm: exclui diretórios (-rf apaga também os subdiretórios)
 cat: lê o conteúdo dentro de um arquivo
-
-
-git init: inicializar repositório na pasta
-git status: mostra status da pasta (commits, arquivos de commit)
-git add: insere um arquivo no commit

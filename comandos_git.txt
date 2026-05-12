@@ -1,0 +1,6 @@
+git init: inicializar repositório na pasta
+git status: mostra status da pasta (commits, arquivos de commit)
+git add: insere um arquivo no commit
+git commit -m: criar um commit, uma versão dos arquivos
+git config --global user.email: configura conta de email
+git config --global user.name: configura nome da conta
