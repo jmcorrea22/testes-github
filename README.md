@@ -1,2 +1,3 @@
-# Curso Git e GitHub
-Testes
+# Testes Git e GitHub
+
+Repositório de testes
